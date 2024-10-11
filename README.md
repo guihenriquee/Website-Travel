@@ -5,8 +5,8 @@ O projeto "Boas Viagens!" é um website responsivo desenvolvido para uma companh
 
 ## Tecnologias Utilizadas
 - **HTML5
-- **CSS3:
-- **JavaScript:
+- **CSS3
+- **JavaScript
 
 ## Funcionalidades
 - **Navegação fácil:** Um menu intuitivo que permite acesso rápido a diferentes seções do site.
